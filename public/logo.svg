@@ -1,0 +1,11 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wallet Base (Trust/Stability) -->
+  <rect x="8" y="12" width="24" height="18" rx="3" fill="#3B82F6" stroke="#1D4ED8" stroke-width="2"/>
+  
+  <!-- Rising Graph Line (Growth/Savings) -->
+  <path d="M12 18 L16 14 L20 22 L24 18 L28 26" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Notch (Expense Control) -->
+  <rect x="26" y="16" width="4" height="4" rx="1" fill="#10B981"/>
+  
+</svg>
